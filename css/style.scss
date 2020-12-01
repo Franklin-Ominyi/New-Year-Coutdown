@@ -73,9 +73,16 @@ h1{
  .content{
   top:80px;
  }
-
+ #year{
+  width: 40%;
+  font-size: 40px;
+ }
  .number, .name{
   font-size:  16px;
+ }
+ .flex-items{
+  margin: 10px 10px;
+  text-align: center;
  }
  
 }
