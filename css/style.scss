@@ -74,14 +74,19 @@ h1{
   top:80px;
  }
  #year{
-  width: 40%;
-  font-size: 40px;
+  width: 100%;
+  top: 98vh;
+  font-size: 80px;
  }
  .number, .name{
   font-size:  16px;
  }
+
+ .flex{
+  margin:0 40px;
+ }
  .flex-items{
-  margin: 10px 10px;
+  margin: 10px 20px;
   text-align: center;
  }
  
