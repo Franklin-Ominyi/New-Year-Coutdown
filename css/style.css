@@ -74,13 +74,14 @@ h1 {
   }
   #year {
     width: 100%;
-    font-size: 80px;
+    top: 78vh;
+    font-size: 100px;
   }
   .number, .name {
     font-size: 16px;
   }
   .flex {
-    margin: 0 18px;
+    margin: 0 0px;
   }
   .flex-items {
     margin: 10px 20px;
